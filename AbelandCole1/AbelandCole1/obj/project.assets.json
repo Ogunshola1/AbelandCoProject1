@@ -6681,11 +6681,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\folak\\source\\repos\\AbelandCole1\\AbelandCole1\\AbelandCole1.csproj",
+      "projectUniqueName": "C:\\Users\\folak\\source\\repos\\Work\\AbelandCoProject1\\AbelandCole1\\AbelandCole1\\AbelandCole1.csproj",
       "projectName": "AbelandCole1",
-      "projectPath": "C:\\Users\\folak\\source\\repos\\AbelandCole1\\AbelandCole1\\AbelandCole1.csproj",
+      "projectPath": "C:\\Users\\folak\\source\\repos\\Work\\AbelandCoProject1\\AbelandCole1\\AbelandCole1\\AbelandCole1.csproj",
       "packagesPath": "C:\\Users\\folak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\folak\\source\\repos\\AbelandCole1\\AbelandCole1\\obj\\",
+      "outputPath": "C:\\Users\\folak\\source\\repos\\Work\\AbelandCoProject1\\AbelandCole1\\AbelandCole1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\folak\\AppData\\Roaming\\NuGet\\NuGet.Config",
